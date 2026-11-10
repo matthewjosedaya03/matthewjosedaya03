@@ -17,51 +17,36 @@ I'm Matthew Jose Daya, currently studying at DCCP.
 
 <div align="center">
 
-ABOUT ME
-
+## ABOUT ME
 3rd Year Computer Science Student
-
 Currently in the Programming phase
-
 Each day cycles, routines are followed
 
-HOBBIES
+## HOBBIES
+Writing stories, Gaming, Testing, Calligraphy Art, Music, Coding, and more.
 
-Writing stories
+# **SKILLS I'VE LEARNED SO FAR**
 
-Gaming
-
-Testing
-
-Calligraphy Art
-
-Coding
-
-... and more.
-
-SKILLS I'VE LEARNED SO FAR
-
-PROGRAMMING
+### **PROGRAMMING**
 
 <img src="https://skillicons.dev/icons?i=java,js,cpp,python" alt="Programming Languages" />
 
-FRONTEND & BACKEND DEV'T
+### **FRONTEND & BACKEND DEV'T**
 
 <img src="https://skillicons.dev/icons?i=html,css,nodejs" alt="Frontend and Backend" />
 
-DATABASE AND DEVOPS
+### **DATABASE AND DEVOPS**
 
 <img src="https://skillicons.dev/icons?i=mysql,bash" alt="Database and DevOps" />
 
-PROGRAMMING APPLICATIONS/IDEs USED
+### **PROGRAMMING APPLICATIONS/IDEs USED**
 
 <img src="https://skillicons.dev/icons?i=git,vscode,eclipse" alt="Development Tools" />
 
-Other applications: CodeBlocks, Notepad++
 
-Note: Not all of these skills are going to be used.
+*Note: Not all of these skills are going to be used.*
 
-CONNECT WITH ME
+# **CONNECT WITH ME**
 
 <!-- Add your social media links here later -->
 
