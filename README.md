@@ -4,7 +4,7 @@ Greetings! 👋
 
 I'm Matthew Jose Daya, currently studying at DCCP.
 
-<a href="https://tenor.com/view/dragon-ball-z-goku-gif-5183679">
+<a href="https://tenor.com/view/dragon-ball-z-goku-gif-5183679](https://media1.tenor.com/m/zmzZ__RhM4UAAAAd/dragon-ball-z-goku.gif">
   <!-- Replace with the direct Tenor GIF media URL -->
   <img src="YOUR_DIRECT_TENOR_GIF_URL" width="300" alt="Goku Sunset - A symbol of growth since 2023" />
 </a>
