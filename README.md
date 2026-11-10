@@ -19,7 +19,9 @@ I'm Matthew Jose Daya, currently studying at DCCP.
 
 ## ABOUT ME
 3rd Year Computer Science Student
+
 Currently in the Programming phase
+
 Each day cycles, routines are followed
 
 ## HOBBIES
